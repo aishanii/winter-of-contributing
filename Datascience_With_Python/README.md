@@ -62,7 +62,7 @@ Closed Issues :
 
 ### Aishani Singh
 
-Github Profile Link : https://www.github.com/AryaPatel1111
+Github Profile Link : https://github.com/aishanii
 
 Issues Allotted : #353, #374, #377, #389, #414, #431, #438, #466, #730, #1038, #1125, #1823, #1827, #1831, #1837, #1852, #1855, #1939, #2402, #2406, #3177, #3521, #3749, #3754, #4160, #4168, #4170, #4374, #4376, #4379, #4381, #4382, #4383, #4385, #4386, #4388
 
